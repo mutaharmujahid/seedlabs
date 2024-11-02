@@ -8,3 +8,5 @@ covers the following topics:<br/>
 • CSRF countermeasures: Secret token and Same-site cookie<br/>
 • HTTP GET and POST requests<br/>
 • JavaScript and Ajax
+
+- Detailed report of the lab can be found [here](https://github.com/MohammedMutahar-Mujahid/seedlabs/blob/main/Cross%20Site%20Request%20Forgery%20Attack/Cross%20Site%20Request%20Forgery%20Attack%20Lab.pdf).
