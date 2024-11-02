@@ -9,4 +9,4 @@ to use tools and write programs to encrypt/decrypt messages. This lab covers the
 • Common mistakes in using encryption algorithms</br>
 • Programming using the crypto library
 
-- Detailed report of the lab can be found [here]().
+- Detailed report of the lab can be found [here](https://github.com/mutaharmujahid/seedlabs/blob/main/Symmetric-Key%20Encryption/Symmetric%20Key%20Encryption.pdf).
