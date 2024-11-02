@@ -1,4 +1,4 @@
-# Cross Site Request Forgery Attack
+# Cross Site Request Forgery Attack Lab
 
 - In this lab, we will be attacking a social networking web application using the CSRF attack. The
 open-source social networking application is called Elgg, which has already been installed in our VM.
