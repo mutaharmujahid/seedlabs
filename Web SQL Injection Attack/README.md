@@ -7,3 +7,5 @@ master the techniques that can help defend against such type of attacks. This la
 • SQL statements: SELECT and UPDATE statements<br/>
 • SQL injection<br/>
 • Prepared statement
+
+- Detailed report of the lab can be found [here](https://github.com/MohammedMutahar-Mujahid/seedlabs/blob/main/Web%20SQL%20Injection%20Attack/SQL%20Injection%20Attack%20Lab.pdf).
