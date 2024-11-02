@@ -13,4 +13,4 @@ lab covers the following security-related topics:<br/>
 • Digital signature<br/>
 • X.509 certificate
 
-- Detailed report of the lab can be found [here]().
+- Detailed report of the lab can be found [here](https://github.com/MohammedMutahar-Mujahid/seedlabs/blob/main/RSA%20Public-Key%20Encryption%20and%20Signature%20Lab/RSA%20Public-Key%20Encryption%20and%20Signature%20Lab.pdf).
