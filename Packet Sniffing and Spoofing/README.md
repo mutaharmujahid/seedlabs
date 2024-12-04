@@ -6,4 +6,8 @@ an in-depth understanding of the technical aspects of these programs. This lab c
 • Packet spoofing using raw socket and Scapy</br>
 • Manipulating packets using Scapy
 
-- Detailed report of the lab can be found [here]().
+- Detailed report of the lab can be found [here](https://github.com/mutaharmujahid/seedlabs/blob/main/Packet%20Sniffing%20and%20Spoofing/Packet%20Sniffing%20and%20Spoofing%20Lab.pdf).
+
+
+- Edit 1: The files that I uploaded are only for the tasks that require C coding. I had some issues with the old VM and due to some misconfig, all the .py files were corrupted and removed. Maybe I was an attacker's target :)
+- Edit 2: The files a.c and b.c I believe are test files. Please check before you execute any file.
