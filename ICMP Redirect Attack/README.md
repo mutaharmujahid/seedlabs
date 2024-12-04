@@ -8,4 +8,4 @@ covers the following topics:</br>
 • ICMP redirect attack</br>
 • Routing
 
-- Detailed report of the lab can be found [here]().
+- Detailed report of the lab can be found [here](https://github.com/mutaharmujahid/seedlabs/blob/main/ICMP%20Redirect%20Attack/ICMP%20Redirect%20Attack%20Lab.pdf).
