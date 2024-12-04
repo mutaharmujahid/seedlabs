@@ -21,6 +21,7 @@ This repository contains solutions and documentation for SEED Labs (not all), wh
 - Cross-Site Request Forgery Attack
 - ARP Cache Poisoning Attack
 - ICMP Redirect Attack
+- Packet Sniffing and Spoofing
 
 These labs offer a practical approach to security and help understand how different types of attacks work in real-world settings.
 
@@ -62,7 +63,8 @@ Below is a summary of the labs included in this repository.
     - This lab aims to gain firsthand experience with the ARP cache poisoning attack and learn about the damages it can cause. This lab will use ARP attacks to launch a man-in-the-middle attack, allowing the attacker to intercept and modify packets between two victims, A and B. Skills in packet sniffing and spoofing will also be practiced using Scapy.
 6. **ICMP Redirect Attack**
     - This lab involves launching an ICMP redirect attack, where the victim is manipulated to send packets to a malicious router (10.9.0.111) instead of the intended destination (192.168.60.5). The attacker can then intercept, modify, and relay the packets, demonstrating a man-in-the-middle (MITM) attack.
-
+7. **Packet Sniffing and Spoofing**
+    - This lab involves sniffing and spoofing packets at a lower level. This has more hard coding tasks that require more knowledge of C programming and also a good understanding of TCP/IP model.
 
 ---
 
